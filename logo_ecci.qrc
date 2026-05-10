@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="luc">
+    <file>LOGO_ECCI.jpg</file>
+  </qresource>
+</RCC>
